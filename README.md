@@ -1,3 +1,2 @@
 # portfolio_website
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Utkarsh288/portfolio_website)
